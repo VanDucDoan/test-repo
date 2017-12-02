@@ -1,2 +1,3 @@
 This is an additional file to test-repo.
 I want to check how the change in github.
+I want to check the second time for change of the file’s content.
